@@ -3,6 +3,7 @@
 /*	Basic Style 
 /* =================================== */
 
+
 body {
     background-color: #fff;
     font-family: 'Open Sans', sans-serif;
@@ -453,6 +454,10 @@ top: -8px;
 	font-size: 16px;
 	padding: 20px;
 	line-height: 24px;
+}
+
+.team-member {
+  Margin-bottom: 15px;
 }
 
 .team-member h4 {
