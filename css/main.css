@@ -408,12 +408,16 @@ top: -8px;
 		    transform: rotateY(0deg) scale(1,1);
 }
 
+.work-item .overlay ul {
+  Margin-top: 50px;
+}
+
 .work-item .overlay a {
-  border: 1px solid #fff;
-  border-radius: 50%;
-  display: inline-block;
-  margin-top: 20%;
-  padding: 7px 10px;
+  background-color: #0d7c67;
+  color: #fff;
+  height: 42px;
+  padding: 10px 0 0;
+  width: 42px;
 }
 
 .work-item .overlay a:hover {
@@ -431,7 +435,6 @@ top: -8px;
   font-size: 14px;
   line-height: 24px;
 }
-
 
 
 /*=========================================
